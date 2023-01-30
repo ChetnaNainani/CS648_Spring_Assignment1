@@ -1,1 +1,1 @@
-# CS648_Spring_Assignment1
+# CS648 Spring Assignment1
